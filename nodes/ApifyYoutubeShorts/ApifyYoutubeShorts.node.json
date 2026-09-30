@@ -1,0 +1,41 @@
+{
+	"node": "n8n-nodes-youtube-shorts-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Analytics",
+		"Marketing",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/youtube-shorts-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"youtube",
+		"youtube shorts",
+		"shorts",
+		"shorts analytics",
+		"youtube analytics",
+		"channel analytics",
+		"video views",
+		"views",
+		"likes",
+		"hashtags",
+		"tags",
+		"upload date",
+		"engagement rate",
+		"creator research",
+		"competitor analysis",
+		"social media",
+		"apify"
+	]
+}
