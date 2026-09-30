@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-youtube-shorts-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "YouTube Shorts analytics for any channel or Short link in n8n: views, likes, comment counts, exact publish dates, hashtags and creator tags as structured JSON, via the YouTube Shorts API on Apify.",
   "keywords": [
     "n8n-community-node-package",
